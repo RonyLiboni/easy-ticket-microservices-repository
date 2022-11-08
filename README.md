@@ -12,14 +12,14 @@ Como o estudo ainda está em construção, eles estão sem readme.
 5) MS de comunicação (mensageria assíncrona) https://lnkd.in/dRHT6Ndp
  
 Abaixo um pouco das tecnologias que utilizei até o momento em cada projeto:
-(1,2,3,4,5) - Java com Spring Boot,
-(1) - Spring #Cloud #Discovery - #Eureka Server,
-(2) - Spring Cloud #Routing - API #Gateway,
-(3) - Spring Security com token #JWT,
-(3,5) – Spring #AMQP (#RabbitMQ)
-(2,4) - Spring Cloud #OpenFeign,
-(3,4) - Spring Data #JPA,
-(3) - Banco de dados relacional #MySQL,
-(4) – Banco de dados relacional #Oracle,
-(3,4) - #FlyWay Migrations,
-(2,3,4) - Documentação com #SWAGGER utilizando o SpringDoc;
+- (1,2,3,4,5) - Java com Spring Boot,
+- (1) - Spring #Cloud #Discovery - #Eureka Server,
+- (2) - Spring Cloud #Routing - API #Gateway,
+- (3) - Spring Security com token #JWT,
+- (3,5) – Spring #AMQP (#RabbitMQ)
+- (2,4) - Spring Cloud #OpenFeign,
+- (3,4) - Spring Data #JPA,
+- (3) - Banco de dados relacional #MySQL,
+- (4) – Banco de dados relacional #Oracle,
+- (3,4) - #FlyWay Migrations,
+- (2,3,4) - Documentação com #SWAGGER utilizando o SpringDoc;
